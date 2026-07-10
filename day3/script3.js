@@ -1,1 +1,0 @@
-// Write a BMI calculator using js Functions.
